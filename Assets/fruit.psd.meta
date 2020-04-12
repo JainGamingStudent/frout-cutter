@@ -1,0 +1,471 @@
+fileFormatVersion: 2
+guid: 886442a9522f52f46a698f40d58ca713
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5321949957799140045
+    second: fruit_0
+  - first:
+      213: 6422085674583116018
+    second: fruit_1
+  - first:
+      213: 1248475614767147607
+    second: fruit_2
+  - first:
+      213: -2199681193780744630
+    second: fruit_3
+  - first:
+      213: 728017172041052461
+    second: fruit_4
+  - first:
+      213: 6696335727113552053
+    second: fruit_5
+  - first:
+      213: 2076435091191082628
+    second: fruit_6
+  - first:
+      213: 4198489572449100032
+    second: fruit_7
+  - first:
+      213: 3508844023488525244
+    second: fruit_8
+  - first:
+      213: -7968859698029649493
+    second: fruit_9
+  - first:
+      213: 58400530022477445
+    second: fruit_10
+  - first:
+      213: -8501991927089582871
+    second: fruit_11
+  - first:
+      213: -1703393201613090473
+    second: fruit_12
+  - first:
+      213: 1533802386996919836
+    second: fruit_13
+  - first:
+      213: 7770786624434639300
+    second: fruit_14
+  - first:
+      213: 5409964807599692442
+    second: fruit_15
+  - first:
+      213: -9100003843072360394
+    second: fruit_16
+  - first:
+      213: -272628339178128960
+    second: fruit_17
+  - first:
+      213: 7512099871439311326
+    second: fruit_18
+  - first:
+      213: 5479305336675221223
+    second: fruit_19
+  - first:
+      213: -4948664083253318761
+    second: fruit_20
+  - first:
+      213: 1174765215506284461
+    second: fruit_21
+  - first:
+      213: 6587443116359524875
+    second: fruit_22
+  - first:
+      213: 1904699363601261431
+    second: fruit_23
+  - first:
+      213: -3641146135543990145
+    second: fruit_24
+  - first:
+      213: -4218485542208285046
+    second: fruit_25
+  - first:
+      213: -8518295672077659705
+    second: fruit_26
+  - first:
+      213: -2585490689763306045
+    second: fruit_27
+  - first:
+      213: -6477905202910913387
+    second: fruit_28
+  - first:
+      213: -1401315102013347843
+    second: fruit_29
+  - first:
+      213: 1744798964012511107
+    second: fruit_30
+  - first:
+      213: 8632659129044712041
+    second: fruit_31
+  - first:
+      213: -5007976394954820231
+    second: fruit_32
+  - first:
+      213: 3180964241321629762
+    second: fruit_33
+  - first:
+      213: 2488677387644742486
+    second: fruit_34
+  - first:
+      213: -1323138660588906031
+    second: fruit_35
+  - first:
+      213: 1863244975766273144
+    second: fruit_36
+  - first:
+      213: 4942943137454989145
+    second: fruit_37
+  - first:
+      213: -8823173158737875183
+    second: fruit_38
+  - first:
+      213: -3876492151039272771
+    second: fruit_39
+  - first:
+      213: -3417080037928959513
+    second: fruit_40
+  - first:
+      213: 8900676234212499674
+    second: fruit_41
+  - first:
+      213: 6569028058691828374
+    second: fruit_42
+  - first:
+      213: 7065714136168095826
+    second: fruit_43
+  - first:
+      213: -3148507182146481546
+    second: fruit_44
+  - first:
+      213: 6563763517845185358
+    second: fruit_45
+  - first:
+      213: -2186981492929751419
+    second: fruit_46
+  - first:
+      213: -2198417305731484937
+    second: fruit_47
+  - first:
+      213: 3712654375410478622
+    second: fruit_48
+  - first:
+      213: -7997378180003824173
+    second: fruit_49
+  - first:
+      213: -965753407614344325
+    second: fruit_50
+  - first:
+      213: 3772951821207076455
+    second: fruit_51
+  - first:
+      213: -452538062841605245
+    second: fruit_52
+  - first:
+      213: 1432603697615494312
+    second: fruit_53
+  - first:
+      213: -5644436327761356881
+    second: fruit_54
+  - first:
+      213: -3240289757409126343
+    second: fruit_55
+  - first:
+      213: 6080992094544895106
+    second: fruit_56
+  - first:
+      213: -2854788555265322541
+    second: fruit_57
+  - first:
+      213: 3012248637252025765
+    second: fruit_58
+  - first:
+      213: 221481116992003644
+    second: fruit_59
+  - first:
+      213: -8986001178842164446
+    second: fruit_60
+  - first:
+      213: 315530299761769664
+    second: fruit_61
+  - first:
+      213: 1354570874969677758
+    second: fruit_62
+  - first:
+      213: 6194537262417628609
+    second: fruit_63
+  - first:
+      213: 3375698687496018388
+    second: fruit_64
+  - first:
+      213: -2056245666979286090
+    second: fruit_65
+  - first:
+      213: -2781451177026288989
+    second: fruit_66
+  - first:
+      213: -1113174720837269194
+    second: fruit_67
+  - first:
+      213: 7867363791227151413
+    second: fruit_68
+  - first:
+      213: -343593540464867968
+    second: fruit_69
+  - first:
+      213: -1032313883206635640
+    second: fruit_70
+  - first:
+      213: 2345417924663428982
+    second: fruit_71
+  - first:
+      213: -7834927473472076161
+    second: fruit_72
+  - first:
+      213: 7528483321390264572
+    second: fruit_73
+  - first:
+      213: 2649111285685176393
+    second: fruit_74
+  - first:
+      213: -2635245893240929847
+    second: fruit_75
+  - first:
+      213: -2547460000928885240
+    second: fruit_76
+  - first:
+      213: 328085366916029576
+    second: fruit_77
+  - first:
+      213: 9181614454571277643
+    second: fruit_78
+  - first:
+      213: 2485599746202956663
+    second: fruit_79
+  - first:
+      213: 4323381430044578271
+    second: fruit_80
+  - first:
+      213: -5985903691419345760
+    second: fruit_81
+  - first:
+      213: -7596654677553805404
+    second: fruit_82
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fruit_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 407
+        width: 283
+        height: 272
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3352af4d5b2a426b0800000000000000
+      internalID: -5321949957799140045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fruit_1
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 410
+        width: 270
+        height: 253
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8c6a635e4df1950800000000000000
+      internalID: 6422085674583116018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fruit_2
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 651
+        width: 461
+        height: 373
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -61.5, y: -149.5}
+        - {x: -143.5, y: -81.5}
+        - {x: -153.5, y: -43.5}
+        - {x: -191.5, y: -0.5}
+        - {x: -159.5, y: 75.5}
+        - {x: -98.5, y: 114.5}
+        - {x: 28.5, y: 160.5}
+        - {x: 148.5, y: 89.5}
+        - {x: 192.5, y: -31.5}
+        - {x: 142.5, y: -151.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75aeee8f4f9735110800000000000000
+      internalID: 1248475614767147607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fruit_3
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 0
+        width: 321
+        height: 383
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e6791db992971e0800000000000000
+      internalID: -2199681193780744630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
